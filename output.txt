@@ -1,0 +1,2 @@
+This is a simple txt file which we are going to read for Node JS.
+Some random text for appending.

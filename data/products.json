@@ -1,0 +1,39 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Wireless Mouse",
+        "description": "A high-precision wireless mouse with ergonomic design.",
+        "price": 25.99,
+        "category": "Electronics"
+      },
+      {
+        "id": 2,
+        "name": "Bluetooth Headphones",
+        "description": "Noise-canceling over-ear headphones with Bluetooth connectivity.",
+        "price": 89.99,
+        "category": "Audio"
+      },
+      {
+        "id": 3,
+        "name": "Mechanical Keyboard",
+        "description": "A compact mechanical keyboard with customizable backlighting.",
+        "price": 59.99,
+        "category": "Computers"
+      },
+      {
+        "id": 4,
+        "name": "4K Monitor",
+        "description": "A 27-inch 4K UHD monitor with HDR support.",
+        "price": 299.99,
+        "category": "Displays"
+      },
+      {
+        "id": 5,
+        "name": "Portable Charger",
+        "description": "A 10000mAh portable charger with fast charging capability.",
+        "price": 19.99,
+        "category": "Accessories"
+      }
+    ]
+  }
